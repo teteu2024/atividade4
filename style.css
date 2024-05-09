@@ -1,0 +1,55 @@
+h1{
+    color: rgb(255, 0, 0);
+}
+body{
+   background-image: url('https://t2.uc.ltmcdn.com/pt/posts/0/3/7/marcas_de_refrigerantes_29730_orig.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   text-align: center;
+
+}
+
+h3{
+    color: blue;
+}
+l{
+    color: rgb(255, 0, 0);
+    padding-left: 72px;
+}
+
+
+.coca img{
+    border-radius: 24px;
+    text-align: center;
+}
+
+.fantas img,p{
+   border-radius: 24px;
+   text-align: center;
+   color: brown
+}
+
+
+.monster img,p{
+  border-radius: 24px;
+  text-align: center;
+  color: black;
+}
+
+.sukita img,p{
+    border-radius: 24px;
+    text-align: center;
+    color: white;
+}
+
+header{
+    background-color: darkred;
+}
+
+.container {
+    width: 100%; 
+    text-align: center;
+  }
+  
+
